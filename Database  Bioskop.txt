@@ -1,0 +1,14 @@
+Database : Bioskop
+
+create table film(
+	id_film int,
+	judul varchar(255) not null,
+	genre varchar(255) not null,
+	negara varchar(255) not null,
+	tanggal DATE not null,
+	PRIMARY KEY (id_film)
+)
+
+select * from film
+
+INSERT INTO film (id_film, judul, genre, negara, tanggal) VALUES (1,'The Medium','Horror','Korea Selatan','2021-10-20')

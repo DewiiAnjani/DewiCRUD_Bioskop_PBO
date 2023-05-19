@@ -1,0 +1,84 @@
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Dewi.exe.config
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Dewi.exe
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Dewi.pdb
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Npgsql.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Buffers.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Collections.Immutable.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Memory.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Text.Encodings.Web.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Text.Json.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Threading.Channels.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.ValueTuple.dll
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\Npgsql.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Buffers.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Collections.Immutable.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Memory.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Numerics.Vectors.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Text.Encodings.Web.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Text.Json.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Threading.Channels.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\bin\Debug\System.ValueTuple.xml
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.Form1.resources
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.Properties.Resources.resources
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.csproj.GenerateResource.cache
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.csproj.CopyComplete
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.exe
+D:\KULIAH\Semester 2\PBO\Project\Dewi\Dewi\obj\Debug\Dewi.pdb
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Dewi.exe.config
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Dewi.exe
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Dewi.pdb
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Npgsql.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Buffers.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Memory.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Text.Json.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Threading.Channels.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\Npgsql.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Buffers.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Memory.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Text.Json.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Threading.Channels.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.Form1.resources
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.exe
+C:\Users\USER\OneDrive\Documents\SEM2\PBO\Dewi\Dewi\obj\Debug\Dewi.pdb
